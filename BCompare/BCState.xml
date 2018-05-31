@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 3 from Scooter Software -->
+<BCState>
+	<TBcState>
+		<FirstStartup Value="False"/>
+		<FormPosStr Value="301;138;1095;669;3"/>
+	</TBcState>
+	<TCheckForUpdatesState>
+		<Build Value="18414"/>
+	</TCheckForUpdatesState>
+	<TDirCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="D:\project\tellhow\cp\tbp-web-app\WebContent\WEB-INF\lib"/>
+		</LeftMRUSpecs>
+		<RightMRUSpecs>
+			<_0 Value="D:\project\tellhow\cp\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\tbp-web-app\WEB-INF\lib"/>
+		</RightMRUSpecs>
+	</TDirCompareState>
+	<THomeState>
+		<SessionType Value="TDirCompareSession"/>
+	</THomeState>
+	<TMP3CompareState>
+		<MRUFonts>
+			<_0 Value="Microsoft YaHei UI;9;;1"/>
+		</MRUFonts>
+	</TMP3CompareState>
+	<TTextCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="D:\Users\Administrator\desktop\上海智能监控值班太\上海智能监控值班台\index.html"/>
+			<_1 Value="D:\Users\Administrator\desktop\上海智能监控值班太\上海智能监控值班台\css\index.css"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Consolas;10"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="C:\Users\Administrator\AppData\Local\Temp\Rar$DRa0.690\上海智能监控值班台\index.html"/>
+			<_1 Value="C:\Users\Administrator\AppData\Local\Temp\Rar$DRa0.621\上海智能监控值班台\css\index.css"/>
+		</RightMRUSpecs>
+		<SessionFormPosStr Value="382;57;983;670"/>
+	</TTextCompareState>
+	<TTextFindState>
+		<FindItems>
+			<_0 Value="BaseVoltage"/>
+			<_1 Value=".card-container .card.card-redbrown .front"/>
+		</FindItems>
+		<ReplaceItems>
+			<_0/>
+		</ReplaceItems>
+	</TTextFindState>
+</BCState>

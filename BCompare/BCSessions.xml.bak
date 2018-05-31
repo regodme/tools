@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 3 from Scooter Software -->
+<BCSessions>
+	<TSessionFolder>
+		<Items>
+			<TSessionFolder>
+				<Items>
+					<TDirCompareSession Value="lib">
+						<LastModified Value="2016-12-05 09:25:27"/>
+						<Specs>
+							<Left Value="D:\project\tellhow\cp\tbp-web-app\WebContent\WEB-INF\lib"/>
+							<Right Value="D:\project\tellhow\cp\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\tbp-web-app\WEB-INF\lib"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+				</Items>
+			</TSessionFolder>
+			<TDirCompareSession>
+				<State>
+					<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+				</State>
+			</TDirCompareSession>
+		</Items>
+	</TSessionFolder>
+</BCSessions>
