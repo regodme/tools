@@ -137,13 +137,16 @@
    },
    "check_update": {
       "last_check_local_version": "5.00.2843",
-      "last_check_time": "13164344295867523"
+      "last_check_time": "13174190675187856"
    },
    "general": {
+      "default_file_manager": {
+
+      },
       "language_file": "zh-CN.ini"
    },
    "hotkey": {
-
+      "launch_apps": 20737
    },
    "keywords": {
       "builtin_commands": [  ],
@@ -394,6 +397,10 @@
          "keyword": "project",
          "name": "project",
          "path": "D:\\project"
+      }, {
+         "keyword": "tools",
+         "name": "tools",
+         "path": "D:\\Users\\tools"
       } ]
    },
    "status": {

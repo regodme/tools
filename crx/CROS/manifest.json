@@ -1,0 +1,22 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+   "background": {
+      "scripts": [ "scripts/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "38": "images/icon-38.png"
+      },
+      "default_title":"CORS"
+   },
+   "description": "allow CORS form the setting origin, default it allow from *",
+   "icons": {
+      "128": "images/icon-128.png"
+   },
+   "manifest_version": 2,
+   "name": "CORS",
+   "options_page": "options.html",
+   "permissions": [ "webRequest", "webRequestBlocking", "storage", "\u003Call_urls>" ],
+   "version": "0.0.4"
+}
